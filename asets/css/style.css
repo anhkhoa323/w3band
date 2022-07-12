@@ -26,3 +26,12 @@ body{
     background: #ccc;
     color: #000;
 }
+.subnav{
+    position: absolute;
+    color: #000;
+}
+.slider{
+    position: absolute;
+    min-height: 10rem;
+    background-color: black;
+}
