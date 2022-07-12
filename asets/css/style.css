@@ -32,6 +32,6 @@ body{
 }
 .slider{
     position: absolute;
-    min-height: 10rem;
+    min-height: 15rem;
     background-color: black;
 }
